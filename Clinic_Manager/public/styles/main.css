@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(62, 190, 210);
+}
+
+.navbar Button{ background-color: aquamarine;
+    border-radius: 8px;
+
+}
+
+div input{
+    border-radius: 5%;
+}
+
+/*.ptName{
+    
+}*/
